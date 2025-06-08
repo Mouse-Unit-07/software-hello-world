@@ -5,7 +5,7 @@
 #                                                                              #
 #------------------------------------------------------------------------------#
 target_sources(hello_world_lib PRIVATE
-    # ADD ALL .c SOURCE FILES HERE
+    # \/ === ADD ALL .c SOURCE FILES HERE === \/
     ${CMAKE_CURRENT_LIST_DIR}/print_hello_world.c
 )
 

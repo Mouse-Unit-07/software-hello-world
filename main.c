@@ -1,7 +1,7 @@
 /*-------------------------------- FILE INFO ---------------------------------*/
 /* Filename           : main.c                                                */
 /*                                                                            */
-/* main file to test print_hello_world interface                              */
+/* main file for for flashing/testing hello_world interface on mcu            */
 /*                                                                            */
 /*----------------------------------------------------------------------------*/
 
